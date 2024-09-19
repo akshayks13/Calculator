@@ -14,3 +14,5 @@ A modern, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 - **HTML**: Structure of the calculator.
 - **CSS**: Custom styles and animations for a responsive and visually appealing interface.
 - **JavaScript**: Functionality for performing basic arithmetic operations.
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
