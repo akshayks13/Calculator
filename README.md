@@ -15,4 +15,8 @@ A modern, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 - **CSS**: Custom styles and animations for a responsive and visually appealing interface.
 - **JavaScript**: Functionality for performing basic arithmetic operations.
 
+## Live Demo
+Check out the live version of the Weather Calculator app here:  
+[Weather Calculator](https://akshayks13.github.io/Calculator/)
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
